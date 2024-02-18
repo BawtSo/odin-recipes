@@ -1,0 +1,1 @@
+This current project is to test my knowledge of html thus far. After this project is completed, I will have displayed my knowledge of HTML structure, using git and github to support my projects, and properly using html elements within my documents.
